@@ -12,8 +12,8 @@ M.gen_colors = function()
 	local colors
 	if vim.o.background == "dark" then
 		colors = {
-			blue_1 = "#4997F4",
-			blue_2 = "#2075EB",
+			blue_1 = "#2075EB",
+			blue_2 = "#4997F4",
 			blue_3 = "#3584E4",
 			blue_4 = "#1C71D8",
 			blue_5 = "#1A5FB4",
@@ -79,8 +79,8 @@ M.gen_colors = function()
 		}
 	else
 		colors = {
-			blue_1 = "#4997F4",
-			blue_2 = "#2075EB",
+			blue_1 = "#2075EB",
+			blue_2 = "#4997F4",
 			blue_3 = "#3584E4",
 			blue_4 = "#1C71D8",
 			blue_5 = "#1A5FB4",
