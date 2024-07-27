@@ -1,0 +1,1 @@
+# elegant_adwaita.nvim
